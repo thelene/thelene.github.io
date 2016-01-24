@@ -1,0 +1,76 @@
+html {
+     height: 100%;
+   }
+   body {
+      width: 800px;
+      height: 100%;
+   }
+
+   header {
+       background-color:#000000 ;
+       padding: 5px;
+       font-size: x-large;
+       display: block;
+       color: white;
+       text-align: center;
+   }
+   nav {
+       float: left;
+   }
+   nav ul {
+       padding: ;
+       float: left;
+       border-bottom: ;
+       list-style-type: none;
+   }
+   nav li {
+       float: left;
+   }
+   nav li a {
+       display: block;
+       height: 25px;
+       padding: 12px 18px 8px 18px;
+       vertical-align: middle;
+   }
+   a {
+       color: ;
+   }
+   section {
+       width: 100%;
+       display: inline-block;
+       float: left;
+       text-align: center;
+   }
+   aside {
+       width: 17%;
+       display: inline-block;
+       background-color:;
+       padding:;
+       min-height: 100%;
+   }
+   aside ul {
+       list-style-type: none;
+   }
+   footer {
+       width: 790px;
+       background-color:;
+       color:;
+       clear: both;
+       display: block;
+   }
+   .image {
+     width: 98%;
+     background-color: black;
+     padding: 5px;
+   }
+   .FlavorFlav {
+     padding-left:;
+     padding-right:
+   }
+   article {
+     text-align: center;
+     font-size: large;
+   }
+section ul {
+  background-color: black;
+}
